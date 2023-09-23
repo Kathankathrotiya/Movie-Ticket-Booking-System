@@ -19,3 +19,7 @@ The Movie Ticket Booking System is a simple command-line application that allows
 - Select a movie, date, time, and seat.
 - Confirm and pay for your booking.
 - Cancel bookings if needed.
+
+## ScreenShots
+![Screenshot 1](https://github.com/Kathankathrotiya/Movie-Ticket-Booking-System/blob/main/Screenshot%202022-01-19%20092707.jpg)
+![Screenshot 2](https://github.com/Kathankathrotiya/Movie-Ticket-Booking-System/blob/main/Screenshot%202022-01-19%20092641.jpg)
